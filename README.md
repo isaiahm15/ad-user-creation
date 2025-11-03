@@ -25,7 +25,7 @@ This repo will guide you through the process of creating a large number of users
 
 <h2 align="center">Running user creation script in Powershell ISE</h2>
 
-<p>Access your Windows Server client, launch Powershell ISE, and create a new file. Then, copy the text in the code field here and paste it in Windows PowerShell ISE. Pressing enter will start the user creation script, creating 10,000 random users that will be accessible via Active Directory. <i>Make sure you have an OU (Organizational Unit) folder in your Active Directory that matches with <b>"_EMPLOYEES"</b> in <b>line 43</b> of the script <b>BEFORE</b> executing it. You can either change <b>"_EMPLOYEES"</b> in the script to match your OU folder or vice-versa.</i>
+<p>Access your Windows Server client, launch Powershell ISE, and create a new file. Then, <a href="https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1">copy the text in the code field here</a> and paste it in Windows PowerShell ISE. Pressing enter will start the user creation script, creating 10,000 random users that will be accessible via Active Directory. <i>Make sure you have an OU (Organizational Unit) folder in your Active Directory that matches with <b>"_EMPLOYEES"</b> in <b>line 43</b> of the script <b>BEFORE</b> executing it. You can either change <b>"_EMPLOYEES"</b> in the script to match your OU folder or vice-versa.</i>
 <br><img src="https://github.com/user-attachments/assets/d29f6d02-6402-40a2-a601-26770138f86e" height="75%" width="100%"/>
 <br/>
 </p>
