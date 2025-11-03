@@ -26,17 +26,7 @@ This repo will guide you through the process of creating a large number of users
 <h2 align="center">Running the code in Powershell ISE</h2>
 
 <p>We're first starting out within the Windows client OS. Here, I ran "<strong>ping</strong> mainframe" to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
-<br><img src="https://github.com/user-attachments/assets/01ccc032-ef20-4fd3-b423-e6037af84790" height="75%" width="100%"/>
-<br/>
-</p>
-
-<p>We're first starting out within the Windows client OS. Here, I ran "<strong>ping</strong> mainframe" to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
-<br><img src="https://github.com/user-attachments/assets/0e24b4d7-23e4-4b38-9570-43b08c7fae09" height="75%" width="100%"/>
-<br/>
-</p>
-
-<p>We're first starting out within the Windows client OS. Here, I ran "<strong>ping</strong> mainframe" to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
-<br><img src="https://github.com/user-attachments/assets/d37c8277-8b0c-499d-9891-bcade8605591" height="75%" width="100%"/>
+<br><img src="https://github.com/user-attachments/assets/d29f6d02-6402-40a2-a601-26770138f86e" height="75%" width="100%"/>
 <br/>
 </p>
 
@@ -46,7 +36,17 @@ This repo will guide you through the process of creating a large number of users
 </p>
 
 <p>We're first starting out within the Windows client OS. Here, I ran "<strong>ping</strong> mainframe" to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
-<br><img src="https://github.com/user-attachments/assets/d29f6d02-6402-40a2-a601-26770138f86e" height="75%" width="100%"/>
+<br><img src="https://github.com/user-attachments/assets/d37c8277-8b0c-499d-9891-bcade8605591" height="75%" width="100%"/>
+<br/>
+</p>
+
+<p>We're first starting out within the Windows client OS. Here, I ran "<strong>ping</strong> mainframe" to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/0e24b4d7-23e4-4b38-9570-43b08c7fae09" height="75%" width="100%"/>
+<br/>
+</p>
+
+<p>We're first starting out within the Windows client OS. Here, I ran "<strong>ping</strong> mainframe" to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/01ccc032-ef20-4fd3-b423-e6037af84790" height="75%" width="100%"/>
 <br/>
 </p>
 
